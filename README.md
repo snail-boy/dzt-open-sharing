@@ -8,7 +8,7 @@
 - 维护者： [snail-boy(程序员蜗牛)](https://github.com/snail-boy)、[CSDN](https://blog.csdn.net/websmallrabbit)、[稀土掘金](https://juejin.cn/user/2189882895896013)
 - 公众号程序员蜗牛
 - wx: snailboy123 加我注明来意 
-- <img src="./img/wx.jpg" width=100 />
+- <img src="./img/wx.jpg" width=200 />
 
 ## 资源列表
 
@@ -19,7 +19,7 @@
 *  [智能客服问答系统](https://pan.baidu.com/s/1mln0EJRMGyqmto_0LiJmiA)：基于SSE长链接技术，ES智能快速高效客服系统，支持机器人回复和智能客服回复(本人自主开发)。https://pan.baidu.com/s/1mln0EJRMGyqmto_0LiJmiA 百度网盘提取码：6uek
 
 
-### github之编程语言top项目
+### 2024年github之编程语言top项目
 
 *  [2024年最新github之Html语言开源项目top50排行榜](https://blog.csdn.net/websmallrabbit/article/details/137566485)
 *  [2024年最新github之Swift语言开源项目top50排行榜](https://blog.csdn.net/websmallrabbit/article/details/137565768)
