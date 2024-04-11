@@ -13,7 +13,7 @@
 - [CSDN](https://blog.csdn.net/websmallrabbit)、[稀土掘金](https://juejin.cn/user/2189882895896013)、[知乎](https://zhuanlan.zhihu.com/p/691385482)、[开源中国](https://my.oschina.net/snailbody)
 
 - 公众号程序员蜗牛
-- wx: snailboy123 加我注明来意 
+- wx: snailboy123 加我注明来意，非常欢迎企业家、投资人、工程师、合作伙伴来与我洽谈合作 
 - <img src="./img/wx.jpg" width=200 />
 
 ## 资源列表
