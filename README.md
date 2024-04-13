@@ -1,5 +1,5 @@
 # 吊炸天开源项目大全
-本站专注分享开源好用的项目，包括但限于前端、后端、python爬虫、AI、NLP；js、ts、node、tegg等。书籍资料等
+本站专注分享开源好用的项目，包括但限于前端、后端、移动端、小程序、python爬虫、AI、NLP；js、ts、node、tegg、flutter、java等。书籍资料
 
 
 
