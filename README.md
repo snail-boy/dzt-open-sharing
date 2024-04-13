@@ -25,6 +25,16 @@
 
 *  [智能客服问答系统](https://pan.baidu.com/s/1mln0EJRMGyqmto_0LiJmiA)：基于SSE长链接技术，ES智能快速高效客服系统，支持机器人回复和智能客服回复(本人自主开发)。https://pan.baidu.com/s/1mln0EJRMGyqmto_0LiJmiA 百度网盘提取码：6uek
 
+### 资料分享
+
+多年资料总结整理，包含代码、数据、教程，学习资料等都非常有用，持续更新。（本文档互联网手机整理，仅供学习交流，如若侵权，请联系作者删除）
+* [layuiAdmin后台管理系统1.1.0](https://pan.baidu.com/s/1TkLHV-UFIbrNjIvjCg33ww?pwd=5we8)
+* [中国大学和城市信息资源](https://pan.baidu.com/s/11HtBN5uK7SFgSVhiKeA_sA) 提取码：d9bk
+* [双十一秒杀助手](https://pan.baidu.com/s/1NNmdLoHzh1MNxpVhWyaipg) 提取码：cc4k
+* [ppt基础入门教程](https://pan.baidu.com/s/1hUaFP5VtajHs9U9QJwQdYg) 提取码：rhdd
+* [《Vue2实践揭秘》PDF代码+《Vue.js前端开发快速入门与专业应用》PDF](https://pan.baidu.com/s/1RnuVs9dPhHdPn_OVRD7qTw) 提取码：mm57
+* [副业赚钱之道 从0到1打造多元化收入](https://pan.baidu.com/s/1nsJN6WJP61MNLcxclmr68A) 提取码：kgqj
+* [给程序员的职场情商课](https://pan.baidu.com/s/1VSmJxo5Eyf68TdRnFbqk1w) 提取码：at7n
 
 ### 2024年github之编程语言top项目
 
