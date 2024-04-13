@@ -41,6 +41,7 @@
 * [百万级高并发WebRTC流媒体服务器设计与开发](https://www.xiaocifang.com/i/DM4817f7e0BpJ)
 * [Java企业级电商项目架构演进之路Tomcat集群与Redis分布式](https://www.xiaocifang.com/i/RMc75c65ad1jS)
 * [Java全套资料](https://pan.baidu.com/s/13YPjnr42gyNKpXYpn9mX1A) 提取码：34hw
+* [廖峰JavaEE一期](https://www.xiaocifang.com/i/ZM9841d398Anx)
 * [bat面试题汇总](https://pan.baidu.com/s/183bx2Xa3iNeiuYyU2stJMA)  提取码：724z  ![img.png](https://img-blog.csdnimg.cn/direct/2799ac0076544b1f9954b53b164711a4.png)
 
 
