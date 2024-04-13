@@ -35,6 +35,14 @@
 * [《Vue2实践揭秘》PDF代码+《Vue.js前端开发快速入门与专业应用》PDF](https://pan.baidu.com/s/1RnuVs9dPhHdPn_OVRD7qTw) 提取码：mm57
 * [副业赚钱之道 从0到1打造多元化收入](https://pan.baidu.com/s/1nsJN6WJP61MNLcxclmr68A) 提取码：kgqj
 * [给程序员的职场情商课](https://pan.baidu.com/s/1VSmJxo5Eyf68TdRnFbqk1w) 提取码：at7n
+* [5G时代必备技能音视频WebRTC实时互动直播技术入门与实战](https://www.xiaocifang.com/i/HM6a084777arE)
+* [编程必备基础-音视频小白系统入门课程](https://pan.baidu.com/s/1GUrg6cmLkZhjptzS5oKW2A) 提取码：himg
+* [FFmpeg音视频核心技术精讲与实战](https://www.xiaocifang.com/i/RMf8182431MDc)
+* [百万级高并发WebRTC流媒体服务器设计与开发](https://www.xiaocifang.com/i/DM4817f7e0BpJ)
+* [Java企业级电商项目架构演进之路Tomcat集群与Redis分布式](https://www.xiaocifang.com/i/RMc75c65ad1jS)
+* [Java全套资料](https://pan.baidu.com/s/13YPjnr42gyNKpXYpn9mX1A) 提取码：34hw
+* [bat面试题汇总](https://pan.baidu.com/s/183bx2Xa3iNeiuYyU2stJMA)  提取码：724z  ![img.png](https://img-blog.csdnimg.cn/direct/2799ac0076544b1f9954b53b164711a4.png)
+
 
 ### 2024年github之编程语言top项目
 
